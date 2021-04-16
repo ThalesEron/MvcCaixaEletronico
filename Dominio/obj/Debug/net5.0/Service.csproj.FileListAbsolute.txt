@@ -1,0 +1,12 @@
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Service.deps.json
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Service.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Service.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Service.csprojAssemblyReference.cache

@@ -1,0 +1,160 @@
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\appsettings.json
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.exe
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.deps.json
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.runtimeconfig.json
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\ref\MvcThales.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.Views.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.Views.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Dominio.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorAssemblyInfo.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorAssemblyInfo.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\staticwebassets\MvcThales.StaticWebAssets.Manifest.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\staticwebassets\MvcThales.StaticWebAssets.xml
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\scopedcss\bundle\MvcThales.styles.css
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.TagHelpers.input.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.TagHelpers.output.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorCoreGenerate.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorTargetAssemblyInfo.cs
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.Views.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csproj.CopyComplete
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\ref\MvcThales.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Repositorio.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fernando\source\repos\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\appsettings.json
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.exe
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.deps.json
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.runtimeconfig.json
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.runtimeconfig.dev.json
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\ref\MvcThales.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.Views.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\MvcThales.Views.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Repositorio.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csprojAssemblyReference.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.AssemblyInfoInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.AssemblyInfo.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csproj.CoreCompileInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorAssemblyInfo.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorAssemblyInfo.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\staticwebassets\MvcThales.StaticWebAssets.Manifest.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\staticwebassets\MvcThales.StaticWebAssets.xml
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\scopedcss\bundle\MvcThales.styles.css
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.TagHelpers.input.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.TagHelpers.output.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorCoreGenerate.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorTargetAssemblyInfo.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.RazorTargetAssemblyInfo.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.Views.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.csproj.CopyComplete
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\ref\MvcThales.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\MvcThales.genruntimeconfig.cache
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Service.dll
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\bin\Debug\net5.0\Service.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Caixa\Index.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Caixa\Saque.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Caixa\Remover.cshtml.g.cs
+C:\Users\Thales Eron\Downloads\MvcThales\MvcThales\obj\Debug\net5.0\Razor\Views\Caixa\Inserir.cshtml.g.cs

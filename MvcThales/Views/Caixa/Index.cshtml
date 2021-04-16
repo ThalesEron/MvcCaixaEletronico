@@ -1,0 +1,43 @@
+﻿
+
+@{
+    ViewData["Title"] = "Inserir";
+    var ValorTotal = ViewBag.ValorTotal;
+}
+<h1>@ViewData["Title"]</h1>
+
+
+
+
+
+
+<div class="jumbotron">
+
+    <h3>Inserir Notas. Valor total em caixa atualmente: @ValorTotal</h3>
+
+    <form action="/Inserir" method="post">
+        <div class="form-group">
+            <label for="valorNota">Valor da Nota</label>
+            <select class="form-control" id="nomeFunc" name="valorNota">
+
+                <option value="2">2 Reais</option>
+                <option value="5">5 Reais</option>
+                <option value="10">10 Reais</option>
+                <option value="20">20 Reais</option>
+                <option value="50">50 Reais</option>
+                <option value="100">100 Reais</option>
+
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="quantidade">Quantidade</label>
+            <input type="number" class="form-control" id="quantidade" name="quantidade" placeholder="Quantidade">
+        </div>
+        <button type="submit" class="btn btn-primary">Inserir</button>
+        <button type="reset" class="btn btn-primary">Resetar</button>
+    </form>
+
+</div>
+
+
+

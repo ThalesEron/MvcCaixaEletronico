@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUMO3WkYLBzBkh4My/pk1FA9jztvnr/+frhvsCC9PrJwHq+iuXNIWnpJIUpleF9ODVZzuNhcBbK89DSnwgINbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thales Eron\\Downloads\\MvcThales\\Dominio\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thales Eron\\.nuget\\packages\\fluentvalidation\\10.0.2\\fluentvalidation.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

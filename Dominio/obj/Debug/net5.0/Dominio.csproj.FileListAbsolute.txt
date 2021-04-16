@@ -1,0 +1,24 @@
+C:\Users\Fernando\source\repos\MvcThales\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\Fernando\source\repos\MvcThales\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\Fernando\source\repos\MvcThales\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\Fernando\source\repos\MvcThales\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\Fernando\source\repos\MvcThales\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\Thales Eron\Downloads\MvcThales\Dominio\obj\Debug\net5.0\Dominio.pdb

@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Sacar Dinheiro";
+    decimal ValorDesejado = 0;
+    var NotaCem = 0;
+    var NotaCinquenta = 0;
+    var NotaVinte = 0;
+    var NotaDez = 0;
+    var NotaCinco = 0;
+    var NotaDois = 0;
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<div class="jumbotron">
+
+    @if (ViewBag.ValorDesejado != null)
+    {
+        ValorDesejado = ViewBag.ValorDesejado;
+        NotaCem = ViewBag.NotaCem;
+        NotaVinte = ViewBag.NotaVinte;
+        NotaDez = ViewBag.NotaDez;
+        NotaCinco = ViewBag.NotaCinco;
+        NotaDois = ViewBag.NotaDois;
+
+        <script>
+            setTimeout(() => { $('#myModal').modal('show'); }, 500);
+        </script>
+    }
+
+
+    <h3>Sacar Dinheiro</h3>
+
+    <form action="/SacarDinheiro" name="saqueValor" method="post">
+        <div class="form-group">
+            <label for="number">Selecione o valor em reais para retirar</label>
+            <input type="number" class="form-control" id="valorSaque" name="valorSaque" readonly>
+            <input type="button" value="2" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(2)">
+            <input type="button" value="5" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(5)">
+            <input type="button" value="10" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(10)">
+            <input type="button" value="20" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(20)">
+            <input type="button" value="50" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(50)">
+            <input type="button" value="100" onclick="document.saqueValor.valorSaque.value = Number(document.saqueValor.valorSaque.value)+Number(100)">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Sacar</button>
+        <button type="reset" class="btn btn-primary">Resetar</button>
+    </form>
+    
+
+</div>
+
+
+
+<div class="container">
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+
+                <form action="Remover" method="post" >
+                    <div class="form-group">
+                        <label for="valor">Sugestão de cédulas para o valor de @ValorDesejado reais</label>
+                        <div>
+                            @if (NotaCem > 0)
+                            {
+                                <label for="valor">Notas de Cem: </label><br />
+                                <input type="number" class="form-control" id="valorCem" name="valorCem" value="@NotaCem" readonly>
+                            }
+
+                            @if (NotaCinquenta > 0)
+                            {
+                                <label for="valor">Notas de Cinquenta: </label><br />
+                                <input type="number" class="form-control" id="valorCinquenta" name="valorCinquenta" value="@NotaCinquenta" readonly>
+                            }
+
+                            @if (NotaVinte > 0)
+                            {
+                                <label for="valor">Notas de Vinte: </label><br />
+                                <input type="number" class="form-control" id="valorVinte" name="valorVinte" value="@NotaVinte" readonly>
+                            }
+
+                            @if (NotaDez > 0)
+                            {
+                                <label for="valor">Notas de Dez: </label><br />
+                                <input type="number" class="form-control" id="valorDez" name="valorDez" value="@NotaDez" readonly>
+                            }
+
+                            @if (NotaCinco > 0)
+                            {
+                                <label for="valor">Notas de Cinco: </label><br />
+                                <input type="number" class="form-control" id="valorCinto" name="valorCinco" value="@NotaCinco" readonly>
+                            }
+
+                            @if (NotaDois > 0)
+                            {
+                                <label for="valor">Notas de Dois: </label><br />
+                                <input type="number" class="form-control" id="valorDois" name="valorDois" value="@NotaDois" readonly>
+                            }
+
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Sacar</button>
+                </form>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
